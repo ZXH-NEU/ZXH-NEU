@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZXH-NEU
 - 👀 I’m interested in Computer Vision、Object Detection
-- 🌱 I’m currently learning Machine Learning Theory and Technology、ROS、Data structure and algorithm
+- 🌱 I’m currently learning Machine Learning Theory and Technology、ROS、Data structure and Algorithm
 - 💞️ I hope to find a satisfactory job in robot vision technology and automatic driving
 - 📫 My Email is 188898358@qq.com
 
